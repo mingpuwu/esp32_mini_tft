@@ -15,7 +15,16 @@ esp32模块是MINI D1 ESP32
 
 solidworks中保存的是画的外壳；
 
-![alt text](images/shell.png)
-![alt text](images/esp32_mini.jpg)
-![alt text](images/taobao1.png)
-![alt text](images/taobao2.png)
+<table>
+  <tr>
+    <td><img src="images/shell.png" alt="Image 1" width="200"/></td>
+    <td><img src="images/esp32_mini.jpg" alt="Image 2" width="200"/></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="images/taobao1.png" alt="Image 1" width="200"/></td>
+    <td><img src="images/taobao2.png" alt="Image 2" width="200"/></td>
+  </tr>
+</table>
